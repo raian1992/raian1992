@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman&theme=light" alt="Ferramentas" />
 
 <!-- Linguagens de Programação -->
-<img src="https://skillicons.dev/icons?i=html,css,js,csharp&theme=light" alt="Linguagens de Programação" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs&theme=light" alt="Linguagens de Programação" />
 
 <!-- Frameworks e Bibliotecas 
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,rails,godot,ai&theme=light" alt="Frameworks e Bibliotecas" />-->
