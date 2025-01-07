@@ -10,7 +10,8 @@
 <div align='center'>
 <div align="center">  
  <a href="https://wakatime.com/@d6b4cd9f-91b6-45cc-8dab-6b190006920b">
-  <!--<img src="https://komarev.com/ghpvc/?username=AngeloSouza1&label=Profile%20views&color=BB5C23&style=flat-square" alt="Profile views" width="145"> --><img       src="https://wakatime.com/badge/user/d6b4cd9f-91b6-45cc-8dab-6b190006920b.svg?style=flat-square&color=BB5C23" alt="Wakatime" style="width: 225px;">
+  <!--<img src="https://komarev.com/ghpvc/?username=AngeloSouza1&label=Profile%20views&color=BB5C23&style=flat-square" alt="Profile views" width="145"> -->
+   <img src="https://wakatime.com/badge/user/d6b4cd9f-91b6-45cc-8dab-6b190006920b.svg?style=flat-square&color=BB5C23" alt="Wakatime" style="width: 225px;">
   </a>
 </div>
 </div>
